@@ -1,0 +1,501 @@
+Brand,Product_Name,Category,Alcohol_Content,Sales_Q1,Region,Image_URL
+Kingfisher,Kingfisher Lager,Beer,5,77299,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Budweiser,Budweiser Light,Beer,7.5,144496,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 Blonde,Beer,7.2,120128,East,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Old Monk,Old Monk Legend,Rum,40.3,124942,North,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Premium,Beer,5.8,138785,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Old Monk,Old Monk Legend,Rum,40.4,88230,Central,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Old Monk,Old Monk Gold Reserve,Rum,42.3,129602,Central,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Jack Daniel's,Jack Daniel's No. 7,Whisky,39.3,78249,North,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Bira 91,Bira 91 Blonde,Beer,7.1,74156,Central,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Kingfisher,Kingfisher Lager,Beer,4.8,126001,North,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Bira 91,Bira 91 White,Beer,7.1,65361,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Bira 91,Bira 91 Blonde,Beer,5.3,149858,West,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,43.4,95896,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Bira 91,Bira 91 Light,Beer,4.2,93816,North,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Kingfisher,Kingfisher Storm,Beer,5.9,116172,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's Fire,Whisky,43.8,90785,South,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk Gold Reserve,Rum,40.6,97047,South,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Kingfisher,Kingfisher Strong,Beer,6.8,67128,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Bira 91,Bira 91 White,Beer,4.5,145862,East,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Old Monk,Old Monk Legend,Rum,41.1,98437,East,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Bira 91,Bira 91 Blonde,Beer,6.2,124581,Central,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Old Monk,Old Monk Legend,Rum,42.3,101398,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Jack Daniel's,Jack Daniel's Honey,Whisky,45.7,108625,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Kingfisher,Kingfisher Lager,Beer,3.6,114762,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's No. 7,Whisky,39.5,107266,North,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Kingfisher,Kingfisher Storm,Beer,6.2,107487,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's Fire,Whisky,41.9,85974,South,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Kingfisher,Kingfisher Lager,Beer,6.9,119018,South,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,41.7,81350,East,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Kingfisher,Kingfisher Premium,Beer,7.9,95484,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Budweiser,Budweiser Light,Beer,5.5,68081,South,https://godocspub.com/files/repeater/budweiser1.jpg
+Old Monk,Old Monk Legend,Rum,43,68702,East,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,43.7,61496,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk XXX,Rum,40.2,126441,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Premium,Beer,7.3,135231,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Premium,Beer,3.8,79550,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 Light,Beer,5.5,55071,North,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Kingfisher,Kingfisher Storm,Beer,5.4,130174,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's No. 7,Whisky,39.4,149133,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk Rum,Rum,42.4,53309,North,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Kingfisher,Kingfisher Strong,Beer,6.4,91750,South,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Budweiser,Budweiser Light,Beer,4.1,149691,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Old Monk,Old Monk Legend,Rum,41.2,129018,North,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Magnum,Beer,7.1,138484,South,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,44.2,118393,East,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk Rum,Rum,42.4,122145,Central,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Jack Daniel's,Jack Daniel's Fire,Whisky,35.1,117340,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk XXX,Rum,42.7,53392,East,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Bira 91,Bira 91 Strong,Beer,6.1,80589,East,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Magnum,Beer,4.7,101590,East,https://godocspub.com/files/repeater/budweiser1.jpg
+Old Monk,Old Monk Legend,Rum,42,105458,North,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Jack Daniel's,Jack Daniel's Honey,Whisky,41.5,69015,North,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Kingfisher,Kingfisher Storm,Beer,5.3,118170,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's Fire,Whisky,38.7,69143,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Budweiser,Budweiser Light,Beer,4.7,99505,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Kingfisher,Kingfisher Storm,Beer,4.2,90764,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Budweiser,Budweiser Premium,Beer,5,56191,South,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's Honey,Whisky,41.4,142109,North,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Kingfisher,Kingfisher Storm,Beer,3.9,73337,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Old Monk,Old Monk Gold Reserve,Rum,42.3,60915,North,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,38,91640,North,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk Legend,Rum,41.8,134605,South,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Jack Daniel's,Jack Daniel's Honey,Whisky,37.9,67435,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's Honey,Whisky,41.3,59015,East,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's Honey,Whisky,46.8,52910,East,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's Honey,Whisky,41.6,118050,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Bira 91,Bira 91 Light,Beer,6.6,100898,North,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Premium,Beer,5.9,83926,East,https://godocspub.com/files/repeater/budweiser1.jpg
+Old Monk,Old Monk XXX,Rum,41.1,110486,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Jack Daniel's,Jack Daniel's No. 7,Whisky,46,92196,North,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Kingfisher,Kingfisher Premium,Beer,7.1,107649,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Budweiser,Budweiser Magnum,Beer,4.9,64355,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Zero,Beer,4.4,70560,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 Blonde,Beer,4.7,77368,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Premium,Beer,4.8,95835,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Zero,Beer,4,75374,South,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's No. 7,Whisky,43.4,104658,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Bira 91,Bira 91 White,Beer,7.6,77847,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Kingfisher,Kingfisher Storm,Beer,3.6,139982,East,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Bira 91,Bira 91 Light,Beer,4.6,92442,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Bira 91,Bira 91 Light,Beer,4,125709,West,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Magnum,Beer,5.5,103261,East,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Magnum,Beer,6.3,95398,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 Light,Beer,5.2,139165,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Kingfisher,Kingfisher Storm,Beer,7.2,83391,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Old Monk,Old Monk XXX,Rum,41.8,109275,East,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Kingfisher,Kingfisher Strong,Beer,4,111838,North,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Kingfisher,Kingfisher Strong,Beer,4.5,116300,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,44.4,56614,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk XXX,Rum,41.8,147416,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Bira 91,Bira 91 Light,Beer,6.8,142928,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Old Monk,Old Monk Legend,Rum,40.4,67148,North,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Old Monk,Old Monk XXX,Rum,42.9,61225,South,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Kingfisher,Kingfisher Ultra,Beer,3.9,61945,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Kingfisher,Kingfisher Premium,Beer,5.2,96280,South,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's Fire,Whisky,40,111015,South,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Budweiser,Budweiser Zero,Beer,7.1,102828,East,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 White,Beer,7.9,61632,Central,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Kingfisher,Kingfisher Storm,Beer,4.1,128263,North,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's Honey,Whisky,43.6,64640,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Kingfisher,Kingfisher Strong,Beer,4.9,59274,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Bira 91,Bira 91 Light,Beer,4.4,74825,West,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Old Monk,Old Monk Legend,Rum,41.9,117439,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Bira 91,Bira 91 Strong,Beer,4.8,76456,Central,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Old Monk,Old Monk Rum,Rum,42.4,125483,Central,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Kingfisher,Kingfisher Lager,Beer,6.5,64417,North,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Old Monk,Old Monk Legend,Rum,41.8,119001,South,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Magnum,Beer,7.7,99846,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Kingfisher,Kingfisher Premium,Beer,7.5,148698,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Kingfisher,Kingfisher Strong,Beer,7.3,99939,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's Honey,Whisky,38.6,144399,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's No. 7,Whisky,36.2,70408,East,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Budweiser,Budweiser Light,Beer,5.8,80029,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 Strong,Beer,3.6,87408,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Light,Beer,3.8,89738,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,44.9,89219,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Kingfisher,Kingfisher Strong,Beer,5.4,148067,South,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's No. 7,Whisky,42.4,129122,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk Gold Reserve,Rum,42.2,92703,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Bira 91,Bira 91 Light,Beer,4.4,116669,West,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Light,Beer,5.8,98365,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's Fire,Whisky,37.4,104993,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk XXX,Rum,42,88481,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Old Monk,Old Monk Rum,Rum,41.4,101285,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Old Monk,Old Monk Gold Reserve,Rum,40.9,136823,North,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Kingfisher,Kingfisher Storm,Beer,4.9,98466,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,46.4,104077,East,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk Gold Reserve,Rum,41.8,106002,Central,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Zero,Beer,7.2,111968,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 Light,Beer,6.9,87003,Central,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Old Monk,Old Monk Rum,Rum,40.5,141823,South,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Old Monk,Old Monk Rum,Rum,41.1,149368,East,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,45.7,99696,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk Rum,Rum,41.2,143487,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Zero,Beer,3.9,53703,East,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Light,Beer,4.3,94547,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 Strong,Beer,3.6,122213,North,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Kingfisher,Kingfisher Strong,Beer,5.7,53835,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Old Monk,Old Monk XXX,Rum,41.4,101369,North,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Premium,Beer,6.2,130422,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Old Monk,Old Monk Legend,Rum,42,141778,East,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Zero,Beer,5.9,131925,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 Light,Beer,6.2,51754,East,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Bira 91,Bira 91 Blonde,Beer,4.6,61667,North,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Kingfisher,Kingfisher Storm,Beer,4.5,102216,East,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Bira 91,Bira 91 White,Beer,7.1,94509,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Old Monk,Old Monk Rum,Rum,42.5,97994,Central,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Jack Daniel's,Jack Daniel's No. 7,Whisky,41.5,58773,North,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Kingfisher,Kingfisher Strong,Beer,4.1,76027,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's Fire,Whisky,42.1,123733,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's No. 7,Whisky,41.5,134998,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk Gold Reserve,Rum,42.4,127224,Central,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,41.4,101723,North,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk Legend,Rum,41.7,126504,East,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Premium,Beer,7.4,148346,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Magnum,Beer,3.9,130210,South,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's Honey,Whisky,46.9,72966,East,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Budweiser,Budweiser Light,Beer,6.2,122419,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Kingfisher,Kingfisher Strong,Beer,6.5,119001,South,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Old Monk,Old Monk Rum,Rum,41.1,127715,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Kingfisher,Kingfisher Lager,Beer,7.9,77722,North,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Kingfisher,Kingfisher Ultra,Beer,6.6,111781,North,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Budweiser,Budweiser Light,Beer,4.5,121058,South,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 Blonde,Beer,5.9,100766,North,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,35.2,55721,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Kingfisher,Kingfisher Ultra,Beer,5.6,120176,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Bira 91,Bira 91 Light,Beer,6.1,119994,East,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Kingfisher,Kingfisher Ultra,Beer,7.8,95703,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Old Monk,Old Monk Gold Reserve,Rum,41.6,147559,Central,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Old Monk,Old Monk XXX,Rum,40.9,63311,South,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Old Monk,Old Monk Rum,Rum,42.3,131282,North,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Bira 91,Bira 91 Strong,Beer,7.2,129338,East,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Premium,Beer,4.4,117952,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Old Monk,Old Monk Rum,Rum,40.9,83095,Central,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,41.1,83153,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Budweiser,Budweiser Premium,Beer,5.7,73107,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Magnum,Beer,5.9,132772,East,https://godocspub.com/files/repeater/budweiser1.jpg
+Kingfisher,Kingfisher Storm,Beer,7.2,84080,North,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Bira 91,Bira 91 Blonde,Beer,7.8,101510,North,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Premium,Beer,5.4,65024,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Kingfisher,Kingfisher Lager,Beer,6.6,88293,East,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,42.4,73448,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Bira 91,Bira 91 Strong,Beer,5.5,89492,East,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Kingfisher,Kingfisher Ultra,Beer,4.9,88992,South,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Budweiser,Budweiser Magnum,Beer,4.8,75726,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Kingfisher,Kingfisher Storm,Beer,6.7,127246,South,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Kingfisher,Kingfisher Lager,Beer,3.6,113158,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Kingfisher,Kingfisher Strong,Beer,3.7,135442,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Kingfisher,Kingfisher Ultra,Beer,6.4,65018,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Budweiser,Budweiser Zero,Beer,6.4,140049,East,https://godocspub.com/files/repeater/budweiser1.jpg
+Kingfisher,Kingfisher Storm,Beer,4.5,138203,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's No. 7,Whisky,35.8,89830,North,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Bira 91,Bira 91 Strong,Beer,6.3,117291,Central,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Kingfisher,Kingfisher Storm,Beer,4.1,59075,South,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Kingfisher,Kingfisher Premium,Beer,7.5,132367,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Bira 91,Bira 91 White,Beer,6.4,139524,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Kingfisher,Kingfisher Storm,Beer,4.1,81844,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Kingfisher,Kingfisher Lager,Beer,6.2,82543,East,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's Fire,Whisky,46.4,107358,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Budweiser,Budweiser Zero,Beer,3.9,101561,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Kingfisher,Kingfisher Storm,Beer,7.8,125558,South,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Old Monk,Old Monk Gold Reserve,Rum,42.4,78297,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Old Monk,Old Monk Gold Reserve,Rum,41.6,123387,North,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Magnum,Beer,5.1,69877,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 Light,Beer,4.5,105149,East,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Old Monk,Old Monk XXX,Rum,40.9,104931,East,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,44.4,110969,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk Legend,Rum,41.9,63729,South,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Kingfisher,Kingfisher Strong,Beer,3.7,137260,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Kingfisher,Kingfisher Storm,Beer,8,78032,South,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Budweiser,Budweiser Premium,Beer,4.3,84098,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Magnum,Beer,5.8,114073,South,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Zero,Beer,4.5,78404,South,https://godocspub.com/files/repeater/budweiser1.jpg
+Kingfisher,Kingfisher Strong,Beer,7.5,58692,South,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Kingfisher,Kingfisher Lager,Beer,7.4,78634,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Old Monk,Old Monk XXX,Rum,41,90849,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Kingfisher,Kingfisher Ultra,Beer,5.7,120119,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's No. 7,Whisky,37.1,133358,South,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Bira 91,Bira 91 Light,Beer,5.5,84179,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Kingfisher,Kingfisher Strong,Beer,5.7,87004,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Old Monk,Old Monk Legend,Rum,42,103789,South,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Old Monk,Old Monk Gold Reserve,Rum,40.4,90351,North,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,45,72749,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Kingfisher,Kingfisher Strong,Beer,6.3,62431,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Old Monk,Old Monk Gold Reserve,Rum,42.7,72214,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Kingfisher,Kingfisher Storm,Beer,5.9,105685,North,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Old Monk,Old Monk Rum,Rum,41.2,107707,North,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Kingfisher,Kingfisher Strong,Beer,3.8,94791,East,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Kingfisher,Kingfisher Storm,Beer,3.6,96398,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Budweiser,Budweiser Zero,Beer,6.8,98966,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Magnum,Beer,6.2,119144,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 Blonde,Beer,6.4,102002,West,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Light,Beer,6.7,76596,South,https://godocspub.com/files/repeater/budweiser1.jpg
+Kingfisher,Kingfisher Strong,Beer,7.3,51221,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,41.8,128926,South,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Budweiser,Budweiser Magnum,Beer,5.7,144209,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Zero,Beer,5.3,81304,East,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's Fire,Whisky,36,73135,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,44.1,98921,East,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Budweiser,Budweiser Light,Beer,4.5,61091,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Old Monk,Old Monk Rum,Rum,40.6,79043,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,37,129697,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk Rum,Rum,42,71908,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Premium,Beer,6.6,102747,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,39.6,79847,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's No. 7,Whisky,36.4,61338,South,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Bira 91,Bira 91 Light,Beer,7.1,105404,West,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,39.6,91254,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk XXX,Rum,42.2,120272,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Light,Beer,5.7,122488,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Old Monk,Old Monk Legend,Rum,42.3,67114,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Bira 91,Bira 91 Strong,Beer,4.4,134216,North,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Kingfisher,Kingfisher Storm,Beer,5.1,123967,East,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Kingfisher,Kingfisher Strong,Beer,7.3,83315,South,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Kingfisher,Kingfisher Ultra,Beer,5.7,65650,East,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Budweiser,Budweiser Zero,Beer,5.5,74027,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Old Monk,Old Monk Legend,Rum,42.6,134315,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Bira 91,Bira 91 Strong,Beer,5.3,147778,East,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Jack Daniel's,Jack Daniel's Honey,Whisky,41.1,140669,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Budweiser,Budweiser Light,Beer,5.7,91042,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's Honey,Whisky,41.1,147295,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Budweiser,Budweiser Light,Beer,6.8,80827,South,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Premium,Beer,6.1,149758,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Old Monk,Old Monk Legend,Rum,42.6,52132,East,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Kingfisher,Kingfisher Strong,Beer,6.3,127513,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Old Monk,Old Monk XXX,Rum,43,139526,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Magnum,Beer,3.8,114304,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Magnum,Beer,5,119073,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Magnum,Beer,3.7,83438,South,https://godocspub.com/files/repeater/budweiser1.jpg
+Kingfisher,Kingfisher Ultra,Beer,6.8,133667,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Budweiser,Budweiser Zero,Beer,5.2,89019,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 White,Beer,6.8,106706,North,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Magnum,Beer,4.8,80855,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Old Monk,Old Monk Rum,Rum,41.7,96965,Central,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Old Monk,Old Monk Gold Reserve,Rum,40.7,149495,Central,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Magnum,Beer,4.9,86530,East,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Magnum,Beer,7.8,77639,South,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's Honey,Whisky,42,132116,North,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk Legend,Rum,40.8,66502,Central,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Old Monk,Old Monk XXX,Rum,42.9,113361,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Kingfisher,Kingfisher Premium,Beer,5.1,87758,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Budweiser,Budweiser Magnum,Beer,7.9,77045,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Old Monk,Old Monk XXX,Rum,42.1,95799,Central,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Kingfisher,Kingfisher Lager,Beer,4.6,139288,North,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Bira 91,Bira 91 Blonde,Beer,7,100758,Central,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Zero,Beer,5.1,149188,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Magnum,Beer,7.1,102838,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 Blonde,Beer,5.7,130206,West,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Bira 91,Bira 91 Blonde,Beer,4.7,97821,Central,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Zero,Beer,3.8,70271,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 Blonde,Beer,5.3,83855,Central,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Old Monk,Old Monk Rum,Rum,41.8,54765,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Kingfisher,Kingfisher Strong,Beer,5.1,144130,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Old Monk,Old Monk Gold Reserve,Rum,41.1,72675,South,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Magnum,Beer,6.6,89736,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's No. 7,Whisky,44.7,126342,North,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Kingfisher,Kingfisher Lager,Beer,7.4,146003,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Kingfisher,Kingfisher Ultra,Beer,5.3,57575,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Kingfisher,Kingfisher Ultra,Beer,3.8,77355,South,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Budweiser,Budweiser Zero,Beer,4,145685,East,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's Fire,Whisky,35.5,131742,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Budweiser,Budweiser Magnum,Beer,5.1,70103,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Old Monk,Old Monk Gold Reserve,Rum,42.8,82091,Central,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Premium,Beer,7,92130,East,https://godocspub.com/files/repeater/budweiser1.jpg
+Kingfisher,Kingfisher Strong,Beer,5.5,88280,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Old Monk,Old Monk XXX,Rum,40.1,74641,Central,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Bira 91,Bira 91 Strong,Beer,7.9,124957,North,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Magnum,Beer,7.2,52064,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Old Monk,Old Monk Rum,Rum,40.6,96044,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Jack Daniel's,Jack Daniel's Fire,Whisky,37.5,135605,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's Fire,Whisky,39.2,112401,South,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk Legend,Rum,42.7,52254,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Premium,Beer,6.3,74348,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 Strong,Beer,3.9,138550,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Bira 91,Bira 91 Blonde,Beer,7.9,145444,East,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Bira 91,Bira 91 Light,Beer,5.5,59987,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Light,Beer,5.4,70803,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Zero,Beer,4.2,66532,East,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,36.4,82175,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk Gold Reserve,Rum,41.8,57122,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Old Monk,Old Monk Legend,Rum,42.4,92962,East,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Old Monk,Old Monk Legend,Rum,42.3,120650,Central,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Bira 91,Bira 91 White,Beer,6.9,89268,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Zero,Beer,7.8,97737,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 Strong,Beer,3.5,108394,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Old Monk,Old Monk Gold Reserve,Rum,41.9,58498,South,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Magnum,Beer,4.4,93341,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 Light,Beer,4.3,60720,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Bira 91,Bira 91 Strong,Beer,7.3,143452,Central,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,36.6,84442,East,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Bira 91,Bira 91 Blonde,Beer,5.6,109066,West,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,45.4,60375,South,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's Honey,Whisky,44,53850,North,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk XXX,Rum,42.2,81658,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Premium,Beer,5.6,53563,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Old Monk,Old Monk Rum,Rum,40.5,144705,East,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,41.8,58412,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Budweiser,Budweiser Premium,Beer,5.4,134091,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Old Monk,Old Monk XXX,Rum,40,104148,East,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Bira 91,Bira 91 Blonde,Beer,7,117987,Central,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Bira 91,Bira 91 Blonde,Beer,6.6,89025,East,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Zero,Beer,5,92774,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's Honey,Whisky,45.9,98300,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's Fire,Whisky,39.2,109876,North,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk Rum,Rum,40.5,130016,South,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Light,Beer,7,58147,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 Strong,Beer,4.4,104750,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Premium,Beer,5.3,143107,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Old Monk,Old Monk Rum,Rum,42.8,119687,North,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Kingfisher,Kingfisher Premium,Beer,6.9,108292,South,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Kingfisher,Kingfisher Premium,Beer,3.6,76752,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Bira 91,Bira 91 Strong,Beer,7.4,91769,Central,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Light,Beer,7.7,141716,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 White,Beer,3.7,90064,North,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Old Monk,Old Monk Legend,Rum,40.5,56765,North,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Old Monk,Old Monk Legend,Rum,42,64645,North,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Bira 91,Bira 91 White,Beer,5.5,82842,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Old Monk,Old Monk Legend,Rum,40.9,139256,East,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Jack Daniel's,Jack Daniel's No. 7,Whisky,42.4,139502,East,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Bira 91,Bira 91 Blonde,Beer,3.7,77616,West,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Zero,Beer,5,74097,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Old Monk,Old Monk XXX,Rum,41.2,74217,South,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Kingfisher,Kingfisher Lager,Beer,3.9,92072,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Old Monk,Old Monk Gold Reserve,Rum,40.5,143626,South,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Old Monk,Old Monk XXX,Rum,40.7,81454,Central,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Old Monk,Old Monk Gold Reserve,Rum,40,78682,Central,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Jack Daniel's,Jack Daniel's No. 7,Whisky,43.3,81380,East,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Kingfisher,Kingfisher Premium,Beer,3.5,136074,South,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Bira 91,Bira 91 Blonde,Beer,6.8,63786,Central,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Bira 91,Bira 91 Strong,Beer,4.4,117261,Central,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Jack Daniel's,Jack Daniel's Honey,Whisky,44.1,118552,North,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Budweiser,Budweiser Premium,Beer,6.5,81819,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Old Monk,Old Monk XXX,Rum,40.8,118417,North,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Jack Daniel's,Jack Daniel's Honey,Whisky,38.7,90172,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Bira 91,Bira 91 White,Beer,7,123189,North,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Jack Daniel's,Jack Daniel's Fire,Whisky,40,142727,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,37.8,118599,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Kingfisher,Kingfisher Storm,Beer,3.8,110907,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Kingfisher,Kingfisher Storm,Beer,7.5,125125,North,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Old Monk,Old Monk Gold Reserve,Rum,42,74602,East,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Kingfisher,Kingfisher Strong,Beer,4.8,61168,North,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Bira 91,Bira 91 Light,Beer,3.8,58006,North,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Jack Daniel's,Jack Daniel's Fire,Whisky,42.8,101189,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,42.6,130047,North,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's Honey,Whisky,37.8,131511,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Bira 91,Bira 91 Blonde,Beer,6.1,52215,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Light,Beer,6.6,133330,South,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 White,Beer,5,139666,West,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Kingfisher,Kingfisher Ultra,Beer,6,126680,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Old Monk,Old Monk Gold Reserve,Rum,40.8,92931,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Kingfisher,Kingfisher Storm,Beer,7.6,97540,South,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Budweiser,Budweiser Premium,Beer,5.9,146178,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 Blonde,Beer,6.8,63434,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Bira 91,Bira 91 White,Beer,5.2,82185,East,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Bira 91,Bira 91 White,Beer,4.6,70794,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Kingfisher,Kingfisher Storm,Beer,6,114829,East,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Old Monk,Old Monk Legend,Rum,41.4,96680,South,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Light,Beer,7.4,51841,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's No. 7,Whisky,37.5,145838,South,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Kingfisher,Kingfisher Lager,Beer,3.7,55047,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Kingfisher,Kingfisher Strong,Beer,4.4,127056,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's Honey,Whisky,44.7,128480,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Bira 91,Bira 91 White,Beer,5.1,148973,Central,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Bira 91,Bira 91 Strong,Beer,7.5,56038,North,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Light,Beer,4.3,84771,South,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's Honey,Whisky,39.8,93026,North,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,44.8,98577,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Kingfisher,Kingfisher Premium,Beer,4.1,98267,South,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Budweiser,Budweiser Premium,Beer,6.5,139625,South,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 Blonde,Beer,7.7,77628,North,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Kingfisher,Kingfisher Lager,Beer,7.3,85440,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Bira 91,Bira 91 Light,Beer,5.1,96262,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Old Monk,Old Monk Gold Reserve,Rum,40.9,98736,Central,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Kingfisher,Kingfisher Premium,Beer,6.4,103455,North,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Budweiser,Budweiser Zero,Beer,5.9,82370,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Magnum,Beer,6.2,56199,East,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Light,Beer,5.6,57477,South,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's No. 7,Whisky,38.3,79771,North,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Bira 91,Bira 91 Strong,Beer,3.8,129125,North,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Old Monk,Old Monk Legend,Rum,40.7,76192,North,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Zero,Beer,6.2,111171,South,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,44.5,141115,South,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's Fire,Whisky,35.4,135374,East,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's Honey,Whisky,46.4,100063,South,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Bira 91,Bira 91 Strong,Beer,7.8,71141,West,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Old Monk,Old Monk Gold Reserve,Rum,41.9,119480,Central,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Jack Daniel's,Jack Daniel's Fire,Whisky,46.9,106954,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Kingfisher,Kingfisher Premium,Beer,4.6,63671,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Kingfisher,Kingfisher Strong,Beer,6.8,83903,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Kingfisher,Kingfisher Premium,Beer,3.6,128161,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's Fire,Whisky,42.2,124550,North,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Budweiser,Budweiser Light,Beer,7,83118,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 Light,Beer,4,134113,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Light,Beer,4.6,141669,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's No. 7,Whisky,35.4,132861,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Kingfisher,Kingfisher Premium,Beer,7.3,115027,East,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Budweiser,Budweiser Magnum,Beer,7.5,71030,South,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 Blonde,Beer,4,145496,Central,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Jack Daniel's,Jack Daniel's No. 7,Whisky,44.1,144379,South,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk Rum,Rum,40.3,60492,North,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Budweiser,Budweiser Light,Beer,4.9,148212,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's Fire,Whisky,44.9,86816,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's Fire,Whisky,37.6,118804,South,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Budweiser,Budweiser Light,Beer,5.6,115656,West,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Light,Beer,6,121011,East,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's Fire,Whisky,45.4,136946,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Budweiser,Budweiser Zero,Beer,5.6,68117,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Magnum,Beer,6.3,114933,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's Fire,Whisky,40.9,63579,East,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk Rum,Rum,41.3,123461,Central,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Bira 91,Bira 91 Strong,Beer,7.6,93053,West,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Jack Daniel's,Jack Daniel's No. 7,Whisky,38.8,76980,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's No. 7,Whisky,40.2,136121,South,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Kingfisher,Kingfisher Storm,Beer,7.4,103791,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Old Monk,Old Monk Legend,Rum,42.5,104868,South,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Bira 91,Bira 91 Light,Beer,5.8,140380,North,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Light,Beer,4.5,104521,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Kingfisher,Kingfisher Premium,Beer,4.1,52476,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Budweiser,Budweiser Magnum,Beer,5.6,85544,East,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Premium,Beer,7.5,108010,East,https://godocspub.com/files/repeater/budweiser1.jpg
+Kingfisher,Kingfisher Storm,Beer,5.1,88932,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Budweiser,Budweiser Magnum,Beer,7.9,58493,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's No. 7,Whisky,38.1,72634,North,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's Honey,Whisky,44.3,110082,South,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's Fire,Whisky,36.7,67278,North,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Budweiser,Budweiser Magnum,Beer,7.7,76523,North,https://godocspub.com/files/repeater/budweiser1.jpg
+Kingfisher,Kingfisher Ultra,Beer,3.7,142652,North,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Bira 91,Bira 91 White,Beer,4.8,86476,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Zero,Beer,6.3,107405,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Light,Beer,6,115085,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Kingfisher,Kingfisher Strong,Beer,7.7,115873,North,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Bira 91,Bira 91 Light,Beer,4.6,59039,East,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Kingfisher,Kingfisher Ultra,Beer,7,122832,North,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Bira 91,Bira 91 White,Beer,6.5,84701,East,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Kingfisher,Kingfisher Storm,Beer,5,133443,North,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Budweiser,Budweiser Light,Beer,3.6,112179,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Bira 91,Bira 91 White,Beer,4.2,125238,East,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Old Monk,Old Monk Gold Reserve,Rum,40.8,131022,West,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Bira 91,Bira 91 White,Beer,6.3,145564,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Premium,Beer,7.5,112974,Central,https://godocspub.com/files/repeater/budweiser1.jpg
+Jack Daniel's,Jack Daniel's No. 7,Whisky,43,109212,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Old Monk,Old Monk Rum,Rum,42.2,109716,East,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Bira 91,Bira 91 Strong,Beer,5.2,88567,East,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Budweiser,Budweiser Light,Beer,4.7,133100,East,https://godocspub.com/files/repeater/budweiser1.jpg
+Budweiser,Budweiser Zero,Beer,7.3,97610,East,https://godocspub.com/files/repeater/budweiser1.jpg
+Kingfisher,Kingfisher Ultra,Beer,5.2,128769,North,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's No. 7,Whisky,40.3,141441,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Bira 91,Bira 91 Blonde,Beer,7.1,92001,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Bira 91,Bira 91 Strong,Beer,3.7,110708,Central,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Jack Daniel's,Jack Daniel's Honey,Whisky,40.4,83039,Central,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's Single Barrel,Whisky,43.4,146668,East,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Jack Daniel's,Jack Daniel's No. 7,Whisky,39,141068,East,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Bira 91,Bira 91 Light,Beer,6,116633,South,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Old Monk,Old Monk Legend,Rum,42,53604,East,https://i.pinimg.com/736x/22/69/ff/2269ffd3a099c6f004018028e8f04e2c.jpg
+Kingfisher,Kingfisher Strong,Beer,4.4,141736,South,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's Honey,Whisky,35.7,64316,West,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
+Kingfisher,Kingfisher Lager,Beer,4.7,99673,Central,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Bira 91,Bira 91 Light,Beer,6.8,53368,Central,https://lh3.googleusercontent.com/Vfb5UDmTGjrKeFp12T_yZe9RcJ0Y7JCWWeUwjTtEAdJy4t68LSWuOAnkvTsxIFR_0nY7-mKRNps-666smwFG0QtCUWm5=s750
+Kingfisher,Kingfisher Strong,Beer,6.1,68486,West,https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/kingfisher-logo-illustration-beer-in-india-united-breweries-group-kingfisher-kingfisher-free-lolita-a-clement.jpg
+Jack Daniel's,Jack Daniel's Fire,Whisky,43.9,121046,North,https://logos-world.net/wp-content/uploads/2021/09/Jack-Daniels-Logo-2011-present.png
