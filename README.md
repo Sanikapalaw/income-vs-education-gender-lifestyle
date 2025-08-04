@@ -76,7 +76,7 @@ This project uses a **synthetic dataset** with 500 entries containing the follow
 ## 📎 How to Run
 
 1. Clone this repo  
-2. Open `income_analysis.R` in RStudio  
+2. Open `Dronkinghabit.R` in RStudio  
 3. Make sure `readxl` is installed  
 4. Replace the dataset path if needed  
 5. Run all code chunks in sequence
