@@ -90,7 +90,7 @@ This project is for **educational purposes only**. You’re welcome to fork or r
 
 ## 🙋‍♂️ Author  
 **Sanika Palaw**  
-[LinkedIn Profile](www.linkedin.com/in/sanika-palaw-7583a3289) 
+www.linkedin.com/in/sanika-palaw-7583a3289
 
 ---
 
